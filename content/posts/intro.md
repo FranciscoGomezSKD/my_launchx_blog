@@ -15,3 +15,4 @@ El desarrollador tiene que tener amor por lo que hace, porque como se ha demostr
 Por ultimo, pero no menos importante, dentro del equipo de desarrollo debe existir el uso de buenas practicas de programación. Debe haber tambien tanto una participación organica en el equipo, asi como tambien, siempre debe haber retroalimentacion dentro de este, para que las ideas y procesos se lleven a cabo mas fluidamente y con calidad (una cualidad importante).
 
 Gracias por leer!
+
