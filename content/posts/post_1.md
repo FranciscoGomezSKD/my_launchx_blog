@@ -1,6 +1,6 @@
 ---
 title: "Historia de viaje"
-date: 2022-03-01
+date: 2022-04-07
 description: 'Recuento de lo que he aprendido en mi viaje'
 ---
 
