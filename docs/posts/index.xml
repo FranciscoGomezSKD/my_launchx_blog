@@ -7,5 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://franciscogomezskd.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historia de viaje</title>
+      <link>https://franciscogomezskd.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://franciscogomezskd.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Que tal!
+Como tema de mi segunda publicación, describiré un poco lo aprendido desde el comienzo hasta ahora.
+En la etapa de Onboarding, reafirme algunos temas que ya conocia con anterioridad sobre Pyton, pero tambien aprendí nuevas cosas, sobre todo, me di cuenta de las diferencias y similitudes entre Pyton y C, por poner un ejemplo.
+Me di cuenta que para aprender o reaprender (en su caso) un nuevo lenguaje, hay que quitarse de encima el ego que uno como profesional pueda tener, esto para aceptar que se estan adquiriendo conocimientos nuevos y tal vez, darse cuenta que lo aprendido con anterioridad (y que ya esta en nuestro adn como programador), puede que no haya sido aprendido correctamente.</description>
+    </item>
+    
   </channel>
 </rss>
