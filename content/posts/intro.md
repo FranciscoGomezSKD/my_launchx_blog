@@ -4,6 +4,8 @@ date: 2022-04-07T07:59:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
+Saludos!
+
 Hablando desde la experiencia personal, tanto como cliente y como desarrollador, la cultura que debe tener un desarrollador de software, implica varios puntos.
 
 Primero que nada, debe haber un tema de respeto entre cliente-desarrollador para que, a partir de esto, la relacion laboral y los temas a desarrollar fluyan de manera exitosa.
@@ -15,4 +17,3 @@ El desarrollador tiene que tener amor por lo que hace, porque como se ha demostr
 Por ultimo, pero no menos importante, dentro del equipo de desarrollo debe existir el uso de buenas practicas de programación. Debe haber tambien tanto una participación organica en el equipo, asi como tambien, siempre debe haber retroalimentacion dentro de este, para que las ideas y procesos se lleven a cabo mas fluidamente y con calidad (una cualidad importante).
 
 Gracias por leer!
-
